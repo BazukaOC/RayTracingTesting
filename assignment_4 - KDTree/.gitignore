@@ -1,14 +1,3 @@
-## Code Blocks
-.exe
-.depend
-.layout
-.ppm
-.obj
-bin/
-obj/
-
-
-
 #################
 ## Eclipse
 #################
@@ -17,6 +6,7 @@ obj/
 .project
 .metadata
 bin/
+obj/
 tmp/
 *.tmp
 *.bak
@@ -225,11 +215,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-*.depend
-*.layout
-*.ppm
-*.docx
-*.pdf
-*.JPG
-*.mtl
-*.zip
